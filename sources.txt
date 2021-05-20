@@ -12,3 +12,6 @@ https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-ph
 https://blog.eleven-labs.com/fr/construire-une-api-en-go/
 https://rickandmortyapi.com/documentation/
 https://www.synbioz.com/blog/tech/developper-api-go
+https://2associes.com/readme-sa-structure-et-son-contenu/#:~:text=Le%20README%20doit%20avant%20tout%20renseigner%20sur%20le%20projet&text=Un%20fichier%20README%20est%20comme,introduction%20tr%C3%A8s%20basique%20au%20projet.
+https://www.markdownguide.org/basic-syntax/#lists-1
+https://blog.prototypr.io/css-only-multi-color-backgrounds-4d96a5569a20
