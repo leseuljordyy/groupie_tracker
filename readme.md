@@ -15,6 +15,7 @@ Ensuite vous ouvrez une page internet et ecrivez :
 ## Fonctionnalités
 
 Dirrérentes fonctionnalités sont présentes tel que :
+
  - le retour au menu principal
  -la recherche :
   -par année de création du groupe
