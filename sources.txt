@@ -1,0 +1,14 @@
+https://www.w3schools.com/css/tryit.asp?filename=trycss_template1_float
+https://tutorialedge.net/golang/creating-simple-web-server-with-golang/
+https://tutorialedge.net/golang/creating-restful-api-with-golang/#path-variables
+https://etienner.github.io/creer-une-api-res-tful-sur-go/
+https://github.com/asselyeka/groupie-tracker
+https://juliensalinas.com/fr/integration-API-REST-go-golang-vs-python/
+https://juliensalinas.com/fr/developper-deployer-site-web-entier-golang/
+https://developer.mozilla.org/fr/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+https://www.youtube.com/watch?v=8HtQ92YlyRY&ab_channel=PrimFX
+https://www.youtube.com/watch?v=W5b64DXeP0o&ab_channel=TutorialEdge
+https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php
+https://blog.eleven-labs.com/fr/construire-une-api-en-go/
+https://rickandmortyapi.com/documentation/
+https://www.synbioz.com/blog/tech/developper-api-go
