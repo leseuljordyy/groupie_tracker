@@ -16,13 +16,13 @@ Ensuite vous ouvrez une page internet et ecrivez :
 
 Dirrérentes fonctionnalités sont présentes tel que :
 
- - le retour au menu principal
- -la recherche :
-  -par année de création du groupe
-  -par la date de sortie du premier album
-  -par le nombre de membre du groupe
-  -par la localisation de leurs concerts
- -une page récapitulative par groupe ou par chanteur
+    - le retour au menu principal
+    -la recherche :
+            -par année de création du groupe
+            -par la date de sortie du premier album
+            -par le nombre de membre du groupe
+            -par la localisation de leurs concerts
+    -une page récapitulative par groupe ou par chanteur
  
 ## Auteurs
 
